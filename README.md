@@ -12,10 +12,6 @@
   </ul>
 </div>
 
-<div>
-  <a href="https://app.daily.dev/this_domi"><img src="https://api.daily.dev/devcards/v2/HcD6fpBe2.png?type=wide&r=o6e" width="652" alt="Dominik Deimel's Dev Card"/></a>
-</div>
-
  **<h3 align="left">🚀 Passionate frontend web developer, creating robust and scalable web applications. Skilled in both front-end and a littlebit in back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
  **<h3 align="center">Skills</h3>**
