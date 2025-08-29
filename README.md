@@ -23,7 +23,6 @@ I am Domi, a frontend developer passionate about creating engaging and interacti
 ### GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=domideimel)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domideimel)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=domideimel)](https://git.io/streak-stats)
 
 ### Badges
 - ![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)
