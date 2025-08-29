@@ -1,7 +1,7 @@
 ![👋 Hi, I am Domi](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
 
 ### Hi there 👋
-👋 Hi, I am Domi, a frontend developer passionate about creating engaging and interactive web experiences. With a strong skill set in TypeScript and a commitment to open-source collaboration, I strive to push the boundaries of front-end development.
+I am Domi, a frontend developer passionate about creating engaging and interactive web experiences. With a strong skill set in TypeScript and a commitment to open-source collaboration, I strive to push the boundaries of front-end development.
 
 ### GitHub Activity Overview
 - **660** commits across **6** public repositories
